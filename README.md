@@ -74,7 +74,7 @@ ansible-playbook -i inventory/dynamic_inventory.yml playbook.yml
 
 ## 👨‍💻 Contributor
 
-- **Erkan [Ingolstadt, DE]** – Project Developer & DevOps Student
+- **Erkan [Ingolstadt, DE]** – Cloud & Devops Engineer
 
 ---
 
